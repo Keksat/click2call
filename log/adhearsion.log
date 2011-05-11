@@ -1,0 +1,407 @@
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Fri May 06 14:51:54 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Fri May 06 14:52:48 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Fri May 06 16:06:08 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Mon May 09 11:08:49 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Mon May 09 11:59:12 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Mon May 09 13:01:16 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Mon May 09 15:50:03 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Mon May 09 15:50:10 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Mon May 09 16:18:13 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:00:07 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:00:54 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:01:43 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:07:08 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:18:16 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:20:03 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:24:05 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 13:41:27 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 14:16:01 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 14:27:14 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 14:27:57 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 14:28:55 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 15:08:50 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 15:10:49 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 15:15:29 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 15:42:43 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 15:43:49 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 15:48:50 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-audiofile.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Tue May 10 15:50:51 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Tue May 10 16:20:08 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Tue May 10 16:50:45 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 08:59:20 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 08:59:49 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 09:01:05 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 09:01:24 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 09:16:31 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 09:20:08 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:12:04 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:14:04 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:15:17 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:15:48 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Before return
+ INFO ahn: Shutting down gracefully at Wed May 11 11:22:28 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:25:05 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:39:16 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:40:44 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 11:41:53 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 11:42:51 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 11:46:46 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 12:02:27 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 12:11:16 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO ahn: Shutting down gracefully at Wed May 11 13:05:58 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 13:09:43 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem
+ INFO ahn: Adhearsion v1.0.1 initialized!
+ INFO ami: Successful AMI actions-only connection into ahn_ami@127.0.0.1
+ INFO ami: Successful AMI events-only connection into ahn_ami@127.0.0.1
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO click_to_call: Finding call with destination "http://10.255.240.1:8080/asterisk/welcome-tts.vxml" in 0 active calls
+ INFO ahn: Shutting down gracefully at Wed May 11 13:10:08 +0200 2011.
+ INFO ahn: Shutting down with 0 active calls
+ INFO events: Performing a graceful stop of events subsystem

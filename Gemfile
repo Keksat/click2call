@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+
+gem "rake"
+gem "json"
+gem "rack"
+gem "mongrel"
+gem "rubigen", ">= 1.0.6"
+gem "log4r", ">= 1.0.5"
+gem "activesupport", ">= 2.1.0"
+gem "adhearsion", ">= 1.0.1"

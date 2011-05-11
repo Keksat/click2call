@@ -1,0 +1,40 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.0.6)
+    adhearsion (1.0.1)
+      activesupport (>= 2.1.0)
+      bundler (>= 1.0.10)
+      i18n
+      log4r (>= 1.0.5)
+      rubigen (>= 1.5.6)
+    cgi_multipart_eof_fix (2.5.0)
+    daemons (1.1.2)
+    fastthread (1.0.7)
+    gem_plugin (0.2.3)
+    i18n (0.5.0)
+    json (1.5.1)
+    log4r (1.1.9)
+    mongrel (1.1.5)
+      cgi_multipart_eof_fix (>= 2.4)
+      daemons (>= 1.0.3)
+      fastthread (>= 1.0.1)
+      gem_plugin (>= 0.2.3)
+    rack (1.2.2)
+    rake (0.8.7)
+    rubigen (1.5.6)
+      activesupport (>= 2.3.5)
+      i18n
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport (>= 2.1.0)
+  adhearsion (>= 1.0.1)
+  json
+  log4r (>= 1.0.5)
+  mongrel
+  rack
+  rake
+  rubigen (>= 1.0.6)
